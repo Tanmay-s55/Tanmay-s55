@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Personal projects
-- 🌱 I’m currently learning ...  Python and web dev
-- 💬 Ask me about ... Anything!
-- 📫 How to reach me: ...[Gmail][tanmayin55@gmail.com]
+- 🔭 I’m currently working on: Personal projects
+- 🌱 I’m currently learning: Python and web dev
+- 💬 Ask me about: Anything!
+- 📫 How to reach me: tanmayin55@gmail.com

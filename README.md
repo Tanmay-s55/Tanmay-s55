@@ -15,6 +15,17 @@
 <img align="left" alt="C" width="40px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png">
 
 <br/>
+
+### Connect with me:
+[<img align="left" alt="Tanmay's LinkedIn" width = "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+---
+
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/tanmay-sharma-99648716b/
 <details>
   <summary>:zap: GitHub Stats</summary>
 

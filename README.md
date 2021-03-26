@@ -7,6 +7,7 @@
 - 👯 Open to Collaborate
 - 💬 Ask me about: Anything!
 - 📫 How to reach me: 
+- ⚡ Fun fact : The oldest of the Vedas, Hinduism’s sacred texts, go back to the second millennium BC.
   [Email](tanmayshr55@gmail.com),
   [LinkedIn](https://www.linkedin.com/in/tanmay-sharma-99648716b/)
   

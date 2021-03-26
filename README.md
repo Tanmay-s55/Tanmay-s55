@@ -8,4 +8,4 @@
   [Email](tanmayshr55@gmail.com),
   [LinkedIn](https://www.linkedin.com/in/tanmay-sharma-99648716b/)
   
-  # Languages:
+  # Languages: (https://iconscout.com/icon/c-programming)

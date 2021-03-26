@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tanmay-s55.Tanmay)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Tanmay-s55.Tanmay-s55)
 
 - 🔭 I’m currently working on: Personal projects
 - 🌱 I’m currently learning: Python and web dev

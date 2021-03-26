@@ -12,8 +12,9 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img src="https://camo.githubusercontent.com/842bd13064f5f1e868a4421faa16e312c2648a3d37f0851223043cd4987af0f2/68747470733a2f2f7777772e6b696e64706e672e636f6d2f706963632f6d2f3335352d333535393032375f632d70726f6772616d6d696e672d6c616e67756167652d6c6f676f2d636c69706172742d706e672d646f776e6c6f61642d632e706e67" alt="C" align="" width="38px">
-<br>
+<img align="left" alt="C" width="40px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png">
+
+<br/>
 <details>
   <summary>:zap: GitHub Stats</summary>
 

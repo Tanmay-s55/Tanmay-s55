@@ -9,3 +9,5 @@
   [LinkedIn](https://www.linkedin.com/in/tanmay-sharma-99648716b/)
   
   # Languages: 
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanmay-s55)](https://github.com/anuraghazra/github-readme-stats)

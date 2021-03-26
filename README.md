@@ -6,10 +6,11 @@
 - 🌱 I’m currently learning: Python and web dev
 - 👯 Open to Collaborate
 - 💬 Ask me about: Anything!
-- 📫 How to reach me: 
 - ⚡ Fun fact : The oldest of the Vedas, Hinduism’s sacred texts, go back to the second millennium BC.
+- 📫 How to reach me: 
   [Email](tanmayshr55@gmail.com),
   [LinkedIn](https://www.linkedin.com/in/tanmay-sharma-99648716b/)
+  
   
 ### Languages: 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />

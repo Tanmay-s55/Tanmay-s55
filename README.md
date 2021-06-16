@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tanmay-s55.Tanmay-s55)
 
 - 🔭 I’m currently working on: Personal projects
-- 🌱 I’m currently learning: Python and web dev
+- 🌱 I’m currently learning: Full Stack Web Development
 - 👯 Open to Collaborate
 - 💬 Ask me about: Anything!
 - ⚡ Fun fact : The oldest of the Vedas, Hinduism’s sacred texts, go back to the second millennium BC.

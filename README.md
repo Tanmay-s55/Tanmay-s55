@@ -3,17 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-s55&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-s55" /> </p>
 
-- 🔭 I’m currently working on a **Personal Projects**
+- 🔭 I’m currently working on : **Personal Projects**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning : **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Linkedin**
+- 👯 I’m looking to collaborate on : **Linkedin**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about : **Anything**
 
-- 📫 How to reach me **tanmayin55@gmail.com**
+- 📫 How to reach me : **tanmayin55@gmail.com**
 
-- ⚡ Fun fact **There are over 700 different programming languages!**
+- ⚡ Hobbies: **I like to read on a variety of topics and watch anime.**
+
+- 💬 Fun fact : **There are over 700 different programming languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

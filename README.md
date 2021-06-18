@@ -1,47 +1,29 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Tanmay.</h1>
+<h3>A Computer Science Undergrad from India.</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Tanmay-s55.Tanmay-s55)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeya47&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeya47" /> </p>
 
-- 🔭 I’m currently working on: Personal projects
-- 🌱 I’m currently learning: Full Stack Web Development
-- 👯 Open to Collaborate
-- 💬 Ask me about: Anything!
-- ⚡ Fun fact : The oldest of the Vedas, Hinduism’s sacred texts, go back to the second millennium BC.
-- 📫 How to reach me: 
-  [Email](tanmayshr55@gmail.com),
-  [LinkedIn](https://www.linkedin.com/in/tanmay-sharma-99648716b/)
-  
-  
-### Languages: 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40px"/>
-<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="C" width="40px" src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png"/>
+- 🔭 I’m currently working on a **Personal Projects**
 
-<br/>
+- 🌱 I’m currently learning **Full Stack Web Development**
 
+- 👯 I’m looking to collaborate on **Linkedin.**
 
-### Connect with me:
-[<img align="left" alt="Tanmay's LinkedIn" width = "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 💬 Ask me about **Anything**
 
-<br/>
+- 📫 How to reach me **tanmayin55@gmail.com**
 
----
+- ⚡ Fun fact **I don't sleep.**
 
-<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tanmay-sharma-99648716b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tanmay-sharma-99648716b" height="30" width="40" /></a>
+<a href="https://instagram.com/tanmay_._sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tanmay_._sharma" height="30" width="40" /></a>
+</p>
 
-[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/tanmay-sharma-99648716b/
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-  <img align="left" alt="Tanmay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tanmay-s55&show_icons=true&hide_border=true" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay-s55&show_icons=true&locale=en&layout=compact" alt="tanmay-s55" /></p>
 
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Tanmay's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-s55" />
-
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay-s55&" alt="tanmay-s55" /></p>

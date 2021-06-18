@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **Linkedin.**
+- 👯 I’m looking to collaborate on **Linkedin**
 
 - 💬 Ask me about **Anything**
 

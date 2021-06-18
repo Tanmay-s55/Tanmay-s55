@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tanmayin55@gmail.com**
 
-- ⚡ Fun fact **I don't sleep.**
+- ⚡ Fun fact **There are over 700 different programming languages!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

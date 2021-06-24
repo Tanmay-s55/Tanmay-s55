@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Tanmay.</h1>
 <h3>A Computer Science Undergrad from India.</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay-s55&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay-s55" /> </p>
 

@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on : **Linkedin**
 
-- 💬 Ask me about : **Anything**
+- 💬 Ask me about : **Front End Development,UI/UX Design**
 
 - 📫 How to reach me : **tanmayin55@gmail.com**
 

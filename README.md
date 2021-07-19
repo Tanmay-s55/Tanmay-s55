@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning : **Full Stack Web Development & Python**
 
-- 👯 I’m looking to collaborate on : **Linkedin**
+- 👯 I’m looking to collaborate on : **Web Development Projects**
 
 - 💬 Ask me about : **Front End Development,UI/UX Design**
 

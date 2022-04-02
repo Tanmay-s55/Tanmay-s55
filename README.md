@@ -19,6 +19,8 @@
 
 - 💬 Fun fact : **There are over 700 different programming languages!**
 
+- 💼 Actively Seeking: **Internship opportunities in web development** 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanmay-sharma-99648716b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tanmay-sharma-99648716b" height="30" width="40" /></a>

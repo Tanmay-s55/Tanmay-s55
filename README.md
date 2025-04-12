@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently working on : **Personal Projects**
 
-- 🌱 I’m currently learning : **React**
+- 🌱 I’m currently learning : **Kotlin, Jetpack Compose**
 
-- 👯 I’m looking to collaborate on : **Web Development Projects**
+- 👯 I’m looking to collaborate on : **Any exciting Projects**
 
-- 💬 Ask me about : **Front End Development,UI/UX Design**
+- 💬 Ask me about : **Mobile Developmet, Android, Front End Development,UI/UX Design**
 
 - 📫 How to reach me : **tanmayin55@gmail.com**
 
-- ⚡ Hobbies: **I like to read on a variety of topics and watch anime.**
+- ⚡ Hobbies: **I like to read, workout, cook, watch movies and anime**
 
 - 💬 Fun fact : **There are over 700 different programming languages!**
 
-- 💼 Actively Seeking: **Internship opportunities in web development** 
+- 💼 Actively Seeking: **🙂** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

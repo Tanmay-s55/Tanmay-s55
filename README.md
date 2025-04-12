@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on : **Any exciting Projects**
 
-- 💬 Ask me about : **Mobile Developmet, Android, Front End Development,UI/UX Design**
+- 💬 Ask me about : **Mobile Development, Android, Front End Development,UI/UX Design**
 
 - 📫 How to reach me : **tanmayin55@gmail.com**
 
